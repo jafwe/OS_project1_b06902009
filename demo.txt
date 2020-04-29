@@ -1,0 +1,6 @@
+demo URL: 
+https://reurl.cc/62vgak
+因為demo影片過大 無法直接上傳至github 因此臨時決定上傳至google 雲端 再開啟共用連結
+因此稍微超出了deadline時間 還請助教網開一面
+
+FIFO_1 至 PSJF_2 中間片段有經過剪輯，因為過程中鍵盤出了問題 導致terminal文字格式跑掉 決定重新執行一次 
